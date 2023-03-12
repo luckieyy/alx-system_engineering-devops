@@ -1,1 +1,2 @@
-alx-system devops
+#!/bin/bash
+pwd
